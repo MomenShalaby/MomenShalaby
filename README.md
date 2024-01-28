@@ -3,7 +3,7 @@
 
 # 🏠 About Me
 
-I'm a Software Engineer, hold a bachelor's degree in computer science from Tanta University, and have experience in Node js, Express, Mongo DB, Python, and Data analysis.
+I'm a Software Engineer, I hold a bachelor's degree in computer science from Tanta University and have experience in Node js, Express, Mongo DB, Python, and Data analysis.
 
 
 ## 🌐 Tech Enthusiast
