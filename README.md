@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Backend Developer<br>- 💻 I'm a Computer Science graduate<br>- 🐱‍👤 ITIan<br>- 📚 I'm currently learning Laravel  <br>- 🐱‍🏍I'm eager to learn more and discover more</p>
+<p align="left">- 🔭 I’m working as a Backend Developer<br>- 💻 I'm a Computer Science graduate<br>- 🐱‍👤 ITIan<br>- 🐱‍🏍I'm eager to learn more and discover more</p>
 
 ###
 
